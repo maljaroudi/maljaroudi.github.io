@@ -80,6 +80,8 @@ params:
           url: "https://github.com/maljaroudi"
         - name: linkedin
           url: "https://www.linkedin.com/in/aljaroudi-moheeb/"
+        - name: email
+          url: "mailto:moheeb@aljaroudi.net"
     # label:
     #     text: "Home"
     #     icon: icon.png
