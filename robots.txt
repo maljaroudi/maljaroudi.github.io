@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aljaroudi.net/sitemap.xml
